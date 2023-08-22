@@ -5,8 +5,3 @@
 Front-end developer, passionate about learning new technologies. <br />
 I have experience working with HTML, CSS, Javascript Vanilla, ReactJs, VueJs, NuxtJs, NextJs and PHP Symfony/Laravel.<br /><br />
 I also have experience improving the performance and the SEO of websites.
-
- <p align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovaniMenegat&show_icons=true&title_color=26c3eb&icon_color=26c3eb&text_color=fff&bg_color=4A494A"/>
- </p>
